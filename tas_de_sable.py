@@ -1,7 +1,7 @@
 #########################################
 # groupe TD04
-# Toto LEHERO
-# Titi LEVAINQUEUR
-# etc...
+# Samy
+# Samirah 
+# Ana WASSAF
 # https://github.com/AnaWas-10/projet_tas_de_sable
 #########################################
