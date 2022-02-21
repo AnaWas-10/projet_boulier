@@ -6,5 +6,4 @@
 #
 # https://github.com/AnaWas-10/projet_tas_de_sable
 #########################################
- 
- hgu    
+     
